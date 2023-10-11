@@ -8,5 +8,5 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/stretchr/testify v1.6.1 // indirect
 	github.com/urfave/cli v1.18.0
-	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297 // indirect
+	golang.org/x/net v0.17.0 // indirect
 )
